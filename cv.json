@@ -1,0 +1,253 @@
+{
+  "basics": {
+    "name": "David Villarreal (yosoyvillaa)",
+    "label": "Minecraft plugin & Java/Kotlin Developer con más de 4 años de experiencia",
+    "image": "/me.jpeg",
+    "email": "contacto@yosoyvillaa.com",
+    "phone": "",
+    "url": "https://yosoyvillaa.dev",
+    "summary": "+4 años de experiencia en el desarrollo de plugins para servidores de Minecraft. Actualmente estoy trabajando como desarrollador de plugins para MineBox Network. He trabajado con distintas tecnologías como MySQL, MongoDB, Redis, entre otras, y lenguajes de programación como Java y Kotlin.",
+    "location": {
+      "address": "",
+      "postalCode": "28660",
+      "city": "Boadilla del Monte",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "yosoyvillaa",
+        "url": "https://linkedin.com/in/yosoyvillaa"
+      },
+      {
+        "network": "X",
+        "username": "yosoyvillaa",
+        "url": "https://x.com/yosoyvillaa"
+      },
+      {
+        "network": "GitHub",
+        "username": "yosoyvillaa",
+        "url": "https://github.com/yosoyvillaa"
+      },
+      {
+        "network": "Discord",
+        "username": "yosoyvillaa",
+        "url": "https://discord.com/users/845679457212825671"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MineBox Network",
+      "position": "Java & Kotlin Developer",
+      "url": "https://minebox.es",
+      "startDate": "2023-08-21",
+      "endDate": null,
+      "summary": "Desarrollo de plugins personalizados para el servidor. Mantenimiento de plugins existentes. Escalabilidad y optimización de los sistemas actuales, y desarrollo de nuevas funcionalidades.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Voltyum Network",
+      "position": "Lead Developer & System Administrator",
+      "url": "https://voltyum.net",
+      "startDate": "2021-10-01",
+      "endDate": "2023-06-01",
+      "summary": "Lideré el equipo de desarrollo y configuración del servidor. Desarrollé el sistema interno del servidor y todos los plugins necesarios con una infraestructura escalable. Administré los sistemas del servidor y su infraestructura. Formé y orienté a los nuevos miembros del equipo.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "IES Arquitecto Ventura Rodríguez",
+    "url": "https://iesventura.es/",
+    "area": "Técnico en Sistemas Microinformáticos y Redes",
+    "studyType": "Bachelor",
+    "startDate": "2022-01-01",
+    "endDate": "2024-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Backend"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Master",
+      "keywords": [
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Redis",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "HyrexAnimations",
+      "isActive": true,
+      "description": "Crea increíbles animaciones para tu servidor de minecraft",
+      "highlights": [
+        "Fácil de usar",
+        "Compatible con paquetes de recursos"
+      ],
+      "url": "https://docs.hyrex.es/hyrex-animations",
+      "github": "https://github.com/HyrexStudios/hyrexanimations-api"
+    },
+    {
+      "name": "CloudMultiProxy",
+      "isActive": true,
+      "description": "Sistema de sincronización con los componentes esenciales para proxies de Velocity",
+      "highlights": [
+        "+1500 usuarios activos",
+        "Completamente configurable",
+        "Compatible con multi-proxy"
+      ]
+    },
+    {
+      "name": "CloudLicences",
+      "isActive": true,
+      "description": "Gestor de licencias para software propietario",
+      "highlights": [
+        "Multilenguaje",
+        "Usado por Networks en producción"
+      ],
+      "url": "https://licences.yosoyvillaa.dev"
+    }
+  ]
+}
