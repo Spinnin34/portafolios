@@ -1,61 +1,100 @@
 {
   "basics": {
-    "name": "David Villarreal (yosoyvillaa)",
-    "label": "Minecraft plugin & Java/Kotlin Developer con más de 4 años de experiencia",
+    "name": "Ahmed Omrane (Spinnin34)",
+    "label": "Minecraft plugin & Java/Kotlin Developer con más de 1 años de experiencia",
     "image": "/me.jpeg",
-    "email": "contacto@yosoyvillaa.com",
+    "email": "ahmedomrane398@gmail.com",
     "phone": "",
-    "url": "https://yosoyvillaa.dev",
-    "summary": "+4 años de experiencia en el desarrollo de plugins para servidores de Minecraft. Actualmente estoy trabajando como desarrollador de plugins para MineBox Network. He trabajado con distintas tecnologías como MySQL, MongoDB, Redis, entre otras, y lenguajes de programación como Java y Kotlin.",
+    "url": "https://spinnin34.netlify.app/",
+    "summary": "+1 años de experiencia en el desarrollo de plugins para servidores de Minecraft. Actualmente estoy trabajando como desarrollador de plugins para Zestian Network. He trabajado con distintas tecnología como MySQL entre otras, y lenguajes de programación como Java y Kotlin.",
     "location": {
       "address": "",
-      "postalCode": "28660",
-      "city": "Boadilla del Monte",
+      "postalCode": "33420",
+      "city": "Oviedo",
       "countryCode": "ES",
       "region": "España"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "yosoyvillaa",
-        "url": "https://linkedin.com/in/yosoyvillaa"
-      },
-      {
         "network": "X",
-        "username": "yosoyvillaa",
-        "url": "https://x.com/yosoyvillaa"
+        "username": "Spinnin34",
+        "url": "https://x.com/Spinnin34"
       },
       {
         "network": "GitHub",
-        "username": "yosoyvillaa",
-        "url": "https://github.com/yosoyvillaa"
+        "username": "Spinnin34",
+        "url": "https://github.com/Spinnin34"
       },
       {
         "network": "Discord",
-        "username": "yosoyvillaa",
-        "url": "https://discord.com/users/845679457212825671"
+        "username": "",
+        "url": "https://discord.com/users/807665320088829973"
       }
     ]
   },
   "work": [
     {
-      "name": "MineBox Network",
-      "position": "Java & Kotlin Developer",
-      "url": "https://minebox.es",
-      "startDate": "2023-08-21",
+      "name": "Zestian",
+      "position": "Java plugin Developer",
+      "url": "https://discord.gg/Y3WQCbFBmw",
+      "startDate": "2023-12-6",
       "endDate": null,
-      "summary": "Desarrollo de plugins personalizados para el servidor. Mantenimiento de plugins existentes. Escalabilidad y optimización de los sistemas actuales, y desarrollo de nuevas funcionalidades.",
+      "summary": "Desarrollo de plugins personalizados para el servidor. Mantenimiento de plugins existentes. Desarrollo de nuevas funcionalidades.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Voltyum Network",
+      "name": "Karmancos Studio",
       "position": "Lead Developer & System Administrator",
-      "url": "https://voltyum.net",
-      "startDate": "2021-10-01",
-      "endDate": "2023-06-01",
-      "summary": "Lideré el equipo de desarrollo y configuración del servidor. Desarrollé el sistema interno del servidor y todos los plugins necesarios con una infraestructura escalable. Administré los sistemas del servidor y su infraestructura. Formé y orienté a los nuevos miembros del equipo.",
+      "url": "https://discord.gg/q5ftfyxW4w",
+      "startDate": "2020-10-03",
+      "endDate": null,
+      "summary": "Lideré el equipo de desarrollo y configuración del servidor. Administré los sistemas del servidor y su infraestructura. Formé y orienté a los nuevos miembros del equipo.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "MineHades",
+      "position": "Developer",
+      "url": null,
+      "startDate": "2023-10-03",
+      "endDate": "2023-12-03",
+      "summary": "Ayudé en el desarrollo de la network y en la corrección de bugs dentro de la misma, además de contribuir con la incorporación de nuevos plugins de soporte y ayuda con la llegada de nuevas versiones.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TeamBrody",
+      "position": "Leader Developer",
+      "url": "https://discord.gg/MSQZ5wNKJy",
+      "startDate": "2024-4-03",
+      "endDate": null,
+      "summary": "Recién estoy comenzando. Estoy desarrollando un núcleo y ayudando con diversas pruebas de eventos en el estudio. Además de eso, estoy orientando al equipo de desarrollo para mejorar la experiencia de trabajo, así como implementando plugins personalizados en el estudio.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Nea Network",
+      "position": "Leader Developer",
+      "url": null,
+      "startDate": "2023-7-21",
+      "endDate": "2024-1-30",
+      "summary": "Rediseñé casi toda la infraestructura de la network, cambiando al proxy Velocity, además de implementar sistemas de membresías premium y la integración de más de 19 plugins personalizados, creando una experiencia única. Es una lástima que la network haya tenido que cerrar.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Plugin Soporte",
+      "position": "Helper Developer",
+      "url": null,
+      "startDate": "2023-1-21",
+      "endDate": null,
+      "summary": "Ayudante de soporte de plugins, ayudando en la formación de personas con las habilidades necesarias para crear plugins de Minecraft.",
       "highlights": [
         "Started the company"
       ]
@@ -73,12 +112,12 @@
     ]
   }],
   "education": [{
-    "institution": "IES Arquitecto Ventura Rodríguez",
-    "url": "https://iesventura.es/",
+    "institution": "Agorastur",
+    "url": "https://agorastur.es/fp-grado-medio-sistemas-microinformaticos-y-redes",
     "area": "Técnico en Sistemas Microinformáticos y Redes",
     "studyType": "Bachelor",
-    "startDate": "2022-01-01",
-    "endDate": "2024-01-01",
+    "startDate": "2023-13-18",
+    "endDate": null,
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -126,20 +165,6 @@
       ]
     },
     {
-      "name": "MongoDB",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "Redis",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
       "name": "HTML",
       "level": "Master",
       "keywords": [
@@ -151,41 +176,6 @@
       "level": "Master",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
@@ -219,35 +209,35 @@
   }],
   "projects": [
     {
-      "name": "HyrexAnimations",
+      "name": "MC Extremo",
       "isActive": true,
-      "description": "Crea increíbles animaciones para tu servidor de minecraft",
+      "description": "Crea un mc extremo con pocos plugins",
       "highlights": [
         "Fácil de usar",
-        "Compatible con paquetes de recursos"
-      ],
-      "url": "https://docs.hyrex.es/hyrex-animations",
-      "github": "https://github.com/HyrexStudios/hyrexanimations-api"
-    },
-    {
-      "name": "CloudMultiProxy",
-      "isActive": true,
-      "description": "Sistema de sincronización con los componentes esenciales para proxies de Velocity",
-      "highlights": [
-        "+1500 usuarios activos",
         "Completamente configurable",
-        "Compatible con multi-proxy"
-      ]
+        "Compatible PAPI"
+      ],
+      "url": "https://karmancos.42web.io/download/mcextremo.html?i=1",
+      "github": "https://github.com/Spinnin34/MCextremo-NEW"
     },
     {
-      "name": "CloudLicences",
+      "name": "RTP Karmancos",
       "isActive": true,
-      "description": "Gestor de licencias para software propietario",
+      "description": "Sistema de teleportación aleatoria con zonas seguras para evitar muertes.",
+      "highlights": [
+        "Completamente configurable"
+      ],
+      "url": "https://karmancos.42web.io/download/kr-rtp.html?i=1"
+    },
+    {
+      "name": "PlayerHide",
+      "isActive": true,
+      "description": "Gestor de la visiblidad de los jugadores",
       "highlights": [
         "Multilenguaje",
-        "Usado por Networks en producción"
+        "Completamente configurable"
       ],
-      "url": "https://licences.yosoyvillaa.dev"
+      "url": "https://karmancos.42web.io/download/playerhide.html?i=1"
     }
   ]
 }
