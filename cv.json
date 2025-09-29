@@ -155,6 +155,18 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
+  "education": [{
+    "institution": "Agorastur",
+    "url": "https://agorastur.es/fp-grado-medio-sistemas-microinformaticos-y-redes",
+    "area": "Técnico en Sistemas Microinformáticos y Redes",
+    "studyType": "Bachelor",
+    "startDate": "2023-13-18",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
