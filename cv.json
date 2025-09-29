@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ahmed Omrane (Spinnin34)",
-    "label": "Minecraft plugin & Java/Kotlin Developer con más de 1 años de experiencia",
+    "label": "Minecraft plugin & Java/Kotlin Developer con más de 2 años de experiencia",
     "image": "/me.jpeg",
     "email": "ahmedomrane398@gmail.com",
     "phone": "",
@@ -155,18 +155,6 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Agorastur",
-    "url": "https://agorastur.es/fp-grado-medio-sistemas-microinformaticos-y-redes",
-    "area": "Técnico en Sistemas Microinformáticos y Redes",
-    "studyType": "Bachelor",
-    "startDate": "2023-13-18",
-    "endDate": null,
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -189,14 +177,7 @@
   "skills": [
     {
       "name": "Java",
-      "level": "Master",
-      "keywords": [
-        "Backend"
-      ]
-    },
-    {
-      "name": "Kotlin",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Backend"
       ]
@@ -206,20 +187,6 @@
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
